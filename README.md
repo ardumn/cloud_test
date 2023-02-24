@@ -20,5 +20,6 @@ Air temperature is on average 31 degrees for the time of year
 What percentage of packets have errors?
 In your code
 
+
 For each QAQC function / operation, label it with a comment.
 After you finish writing the code, draw a diagram of the QAQC workflow
